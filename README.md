@@ -1,5 +1,3 @@
-# What are we doing!
+# World models for broke people
 
-Let's create small world models -- the smallest ones possible. are we up to the challenge?
-
-# nanoWorldModel
+training LLMs to stream worlds to people

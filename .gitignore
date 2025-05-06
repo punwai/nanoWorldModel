@@ -1,0 +1,12 @@
+
+**.egg-info
+build
+**/__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+data/bouncing_mnist
+ckpts/**
+wandb
